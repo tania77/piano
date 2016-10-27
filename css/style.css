@@ -1,0 +1,24 @@
+.blanca {
+  background: white;
+  height: 200px;
+  width: 30px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.negra {
+  background: black;
+  height: 75px;
+  width: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+#piano {
+  border: 2px solid;
+  width: 1000px;
+  margin: auto;
+}
+.blanca:hoover {
+}
+.negra:hoover {
+  background: grey;
+}
