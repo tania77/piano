@@ -1,3 +1,6 @@
+@media screen and (max-width: 640px) {
+  transform: rotate(180);
+}
 .blanca {
   background: white;
   height: 200px;
